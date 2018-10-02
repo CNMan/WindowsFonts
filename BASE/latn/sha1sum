@@ -16,6 +16,8 @@ ab4a4fe054d23061f3c039493d6f665cfda2ecf5  latn/cambria.ttc
 c1dea792e50f1fb71fc4180b598f68f1078726ba  latn/cambriaz.ttf
 e2daa5d20fb47550c4e0632e239559a03bf44e21  latn/Candarab.ttf
 b2dc1d650302cd97f8131812902aa9aaade596dc  latn/Candarai.ttf
+9336ad6cd6f421731f73aa3be929c20abf70f24d  latn/Candarali.ttf
+a95c5fbb9eeebc5846ce84a6bda650cfcb1c07bc  latn/Candaral.ttf
 82b57dc87dd43cb7bb8b6e8211549b58d0bd2ac1  latn/Candara.ttf
 69d0fb5ecd77783c80b48eb98aea0d1817b7f3cf  latn/Candaraz.ttf
 89bc7eab42528e0e32bfe9366ee8132b153aad88  latn/comicbd.ttf
@@ -30,10 +32,12 @@ ee06251e5dc560500b80558956b82d31767aedbb  latn/consolai.ttf
 979e5983aa67ead8c0bacca8e40d9ac6fafdeb93  latn/constani.ttf
 fab18ace162e6f5986a8a6d3c403bc1bc1e7b894  latn/constan.ttf
 2d0689d3947c2f974f8cf792f3390f92e30d917e  latn/constanz.ttf
-47827dba6a9fe6f8e9cc23ce105949fe58f82300  latn/corbelb.ttf
-97b1700da62ea0daa84c028f93149dc4a923b184  latn/corbeli.ttf
-76dd3be1fcc805faa751c16052a03ddd83e8fa01  latn/corbel.ttf
-1129f8d3d9b83fd75ec14137ecf612b08730f3ea  latn/corbelz.ttf
+52a180fccd86393b3d8121b255dcee97a6753d69  latn/corbelb.ttf
+97f9ca43ab9b8acb554e1e97bfd1d70eb34a2be5  latn/corbeli.ttf
+32aefe407d4cdf04f772a154ed4d02b08a493844  latn/corbelli.ttf
+a49f648dfc89d5c4701ccf2dee472e1d9c4ae1de  latn/corbell.ttf
+a2f753a688f4f464324b201a4c5adf2b788e9a2c  latn/corbel.ttf
+e102ebeeb2dcc139226e8e4af90bedc7c9133a85  latn/corbelz.ttf
 68ed4a22d8067fcf1622ac6f6e2f4d3a2e3ec394  latn/courbd.ttf
 c65c4884cdbaadc799edfc22a9e13ac23ad5e8ee  latn/courbi.ttf
 c21abad5f79238b00f9dfad3ea8050b490c30643  latn/couri.ttf
@@ -53,7 +57,7 @@ bdc1ff41007fd1ed38a455acfdd58969133e2aeb  latn/palabi.ttf
 de2ab52a23c0829cf68511f87bf47045ed727c64  latn/palab.ttf
 b0e6640fa0a361857cd0898f77a9afea4c560e69  latn/palai.ttf
 31972e315346a39e05c0a5138bc9e96cbfed410f  latn/pala.ttf
-80f3062288c269ae8ff1c71470a8f51fd97950c3  latn/segmdl2.ttf
+e68ae2befbbb9f811653972137dd1f16b4c4c9a5  latn/segmdl2.ttf
 f44ffb2ba664d3c4dbb7929e3642aa746e9405b5  latn/segoeprb.ttf
 a9731d6f54ad7687de8c3910bb47531300983320  latn/segoepr.ttf
 95c421a890f936d1797aa33bb685861655dda745  latn/segoescb.ttf
@@ -66,7 +70,7 @@ f11d99e7b966f92f78d5a5f2cc076ff72f579c87  latn/segoeui.ttf
 9e4a30b75a3ab6c0a7cdbbd311abb6397b09c9de  latn/segoeuiz.ttf
 b5c511c334ea4d0e78387c5d8e74a01bcc31fcd3  latn/seguibli.ttf
 15877951d3bed765d5908bbc1ba769e1e5bb5df2  latn/seguibl.ttf
-0c44a5f21f5af63a007ed86d42a7466cfac54759  latn/seguiemj.ttf
+88150cf802607834d22a82f1dc56a9d027feec80  latn/seguiemj.ttf
 75a959f1075cdfe94d52d8ca6cb5fcba6d22ccf1  latn/seguihis.ttf
 e3ca26f980d97f4f3a8325d306b6a78a940bba74  latn/seguili.ttf
 3ec4f01d8d2b8f5d2314d3bdd0a352579a3b141a  latn/seguisbi.ttf

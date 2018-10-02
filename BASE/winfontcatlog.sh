@@ -21,17 +21,17 @@ mv malgun.ttf malgunbd.ttf malgunsl.ttf kore/
 mv meiryob.ttc meiryo.ttc jpan/
 mv msgothaiic.ttc msmincho.ttc jpan/
 mv UDDigiKyokashoN-B.ttc UDDigiKyokashoN-R.ttc jpan/
-mv YuGothaiB.ttc YuGothaiL.ttc YuGothaiM.ttc YuGothaiR.ttc jpan/
+mv YuGothB.ttc YuGothL.ttc YuGothM.ttc YuGothR.ttc jpan/
 mv yumindb.ttf yuminl.ttf yumin.ttf jpan/
 
 mv arialbd.ttf arialbi.ttf ariali.ttf arial.ttf ariblk.ttf latn/
 mv calibrib.ttf calibrii.ttf calibrili.ttf calibril.ttf calibri.ttf calibriz.ttf latn/
 mv cambriab.ttf cambriai.ttf cambria.ttc cambriaz.ttf latn/
-mv Candarab.ttf Candarai.ttf Candara.ttf Candaraz.ttf latn/
+mv Candara.ttf Candarab.ttf Candarai.ttf Candaral.ttf Candarali.ttf Candaraz.ttf latn/
 mv comicbd.ttf comici.ttf comic.ttf comicz.ttf latn/
 mv consolab.ttf consolai.ttf consola.ttf consolaz.ttf latn/
 mv constanb.ttf constani.ttf constan.ttf constanz.ttf latn/
-mv corbelb.ttf corbeli.ttf corbel.ttf corbelz.ttf latn/
+mv corbel.ttf corbelb.ttf corbeli.ttf corbell.ttf corbelli.ttf corbelz.ttf latn/
 mv courbd.ttf courbi.ttf couri.ttf cour.ttf latn/
 mv framdit.ttf framd.ttf latn/
 mv georgiab.ttf georgiai.ttf georgia.ttf georgiaz.ttf latn/
