@@ -1,3 +1,28 @@
+rm -rf arab
+rm -rf beng
+rm -rf cans
+rm -rf cher
+rm -rf deva
+rm -rf ethi
+rm -rf gujr
+rm -rf guru
+rm -rf hans
+rm -rf hant
+rm -rf hebr
+rm -rf jpan
+rm -rf khmr
+rm -rf knda
+rm -rf kore
+rm -rf laoo
+rm -rf mlym
+rm -rf orya
+rm -rf latn
+rm -rf sinh
+rm -rf syrc
+rm -rf taml
+rm -rf telu
+rm -rf thai
+
 mkdir arab
 mkdir beng
 mkdir cans
@@ -47,6 +72,170 @@ mv estre.ttf syrc/
 mv latha.ttf lathab.ttf vijaya.ttf vijayab.ttf taml/
 mv gautami.ttf gautamib.ttf Vani.ttf Vanib.ttf telu/
 mv angsana.ttc browalia.ttc cordia.ttc leelawad.ttf leelawdb.ttf upcdb.ttf upcdbi.ttf upcdi.ttf upcdl.ttf upceb.ttf upcebi.ttf upcei.ttf upcel.ttf upcfb.ttf upcfbi.ttf upcfi.ttf upcfl.ttf upcib.ttf upcibi.ttf upcii.ttf upcil.ttf upcjb.ttf upcjbi.ttf upcji.ttf upcjl.ttf upckb.ttf upckbi.ttf upcki.ttf upckl.ttf upclb.ttf upclbi.ttf upcli.ttf upcll.ttf thai/
+
+# delete fonts existed in BASE
+rm hans/Deng.ttf
+rm hans/Dengb.ttf
+rm hans/Dengl.ttf
+rm hans/msyh.ttc
+rm hans/msyhbd.ttc
+rm hans/msyhl.ttc
+rm hans/simfang.ttf
+rm hans/simhei.ttf
+rm hans/simkai.ttf
+rm hans/simsun.ttc
+rm hans/simsunb.ttf
+rm hant/kaiu.ttf
+rm hant/mingliu.ttc
+rm hant/mingliub.ttc
+rm hant/msjh.ttc
+rm hant/msjhbd.ttc
+rm hant/msjhl.ttc
+rm jpan/BIZ-UDGothicB.ttc
+rm jpan/BIZ-UDGothicR.ttc
+rm jpan/BIZ-UDMinchoM.ttc
+rm jpan/meiryo.ttc
+rm jpan/meiryob.ttc
+rm jpan/msgothic.ttc
+rm jpan/msmincho.ttc
+rm jpan/UDDigiKyokashoN-B.ttc
+rm jpan/UDDigiKyokashoN-R.ttc
+rm jpan/YuGothB.ttc
+rm jpan/YuGothL.ttc
+rm jpan/YuGothM.ttc
+rm jpan/YuGothR.ttc
+rm jpan/yumin.ttf
+rm jpan/yumindb.ttf
+rm jpan/yuminl.ttf
+rm kore/malgun.ttf
+rm kore/malgunbd.ttf
+rm kore/malgunsl.ttf
+rm latn/arial.ttf
+rm latn/arialbd.ttf
+rm latn/arialbi.ttf
+rm latn/ariali.ttf
+rm latn/ariblk.ttf
+rm latn/bahnschrift.ttf
+rm latn/calibri.ttf
+rm latn/calibrib.ttf
+rm latn/calibrii.ttf
+rm latn/calibril.ttf
+rm latn/calibrili.ttf
+rm latn/calibriz.ttf
+rm latn/cambria.ttc
+rm latn/cambriab.ttf
+rm latn/cambriai.ttf
+rm latn/cambriaz.ttf
+rm latn/Candara.ttf
+rm latn/Candarab.ttf
+rm latn/Candarai.ttf
+rm latn/Candaral.ttf
+rm latn/Candarali.ttf
+rm latn/Candaraz.ttf
+rm latn/comic.ttf
+rm latn/comicbd.ttf
+rm latn/comici.ttf
+rm latn/comicz.ttf
+rm latn/consola.ttf
+rm latn/consolab.ttf
+rm latn/consolai.ttf
+rm latn/consolaz.ttf
+rm latn/constan.ttf
+rm latn/constanb.ttf
+rm latn/constani.ttf
+rm latn/constanz.ttf
+rm latn/corbel.ttf
+rm latn/corbelb.ttf
+rm latn/corbeli.ttf
+rm latn/corbell.ttf
+rm latn/corbelli.ttf
+rm latn/corbelz.ttf
+rm latn/cour.ttf
+rm latn/courbd.ttf
+rm latn/courbi.ttf
+rm latn/couri.ttf
+rm latn/framd.ttf
+rm latn/framdit.ttf
+rm latn/Gabriola.ttf
+rm latn/georgia.ttf
+rm latn/georgiab.ttf
+rm latn/georgiai.ttf
+rm latn/georgiaz.ttf
+rm latn/impact.ttf
+rm latn/l_10646.ttf
+rm latn/lucon.ttf
+rm latn/micross.ttf
+rm latn/pala.ttf
+rm latn/palab.ttf
+rm latn/palabi.ttf
+rm latn/palai.ttf
+rm latn/segmdl2.ttf
+rm latn/segoepr.ttf
+rm latn/segoeprb.ttf
+rm latn/segoesc.ttf
+rm latn/segoescb.ttf
+rm latn/segoeui.ttf
+rm latn/segoeuib.ttf
+rm latn/segoeuii.ttf
+rm latn/segoeuil.ttf
+rm latn/segoeuisl.ttf
+rm latn/segoeuiz.ttf
+rm latn/seguibl.ttf
+rm latn/seguibli.ttf
+rm latn/seguiemj.ttf
+rm latn/seguihis.ttf
+rm latn/seguili.ttf
+rm latn/seguisb.ttf
+rm latn/seguisbi.ttf
+rm latn/seguisli.ttf
+rm latn/seguisym.ttf
+rm latn/Sitka.ttc
+rm latn/SitkaB.ttc
+rm latn/SitkaI.ttc
+rm latn/SitkaZ.ttc
+rm latn/symbol.ttf
+rm latn/tahoma.ttf
+rm latn/tahomabd.ttf
+rm latn/times.ttf
+rm latn/timesbd.ttf
+rm latn/timesbi.ttf
+rm latn/timesi.ttf
+rm latn/trebuc.ttf
+rm latn/trebucbd.ttf
+rm latn/trebucbi.ttf
+rm latn/trebucit.ttf
+rm latn/verdana.ttf
+rm latn/verdanab.ttf
+rm latn/verdanai.ttf
+rm latn/verdanaz.ttf
+rm other/ebrima.ttf
+rm other/ebrimabd.ttf
+rm other/gadugi.ttf
+rm other/gadugib.ttf
+rm other/himalaya.ttf
+rm other/Inkfree.ttf
+rm other/javatext.ttf
+rm other/marlett.ttf
+rm other/mmrtext.ttf
+rm other/mmrtextb.ttf
+rm other/monbaiti.ttf
+rm other/msyi.ttf
+rm other/mvboli.ttf
+rm other/Nirmala.ttf
+rm other/NirmalaB.ttf
+rm other/NirmalaS.ttf
+rm other/ntailu.ttf
+rm other/ntailub.ttf
+rm other/phagspa.ttf
+rm other/phagspab.ttf
+rm other/sylfaen.ttf
+rm other/taile.ttf
+rm other/taileb.ttf
+rm other/webdings.ttf
+rm other/wingding.ttf
+rm thai/LeelaUIb.ttf
+rm thai/LeelawUI.ttf
+rm thai/LeelUIsl.ttf
 
 sha1sum arab/*.tt* > arab/sha1sum
 sha1sum beng/*.tt* > beng/sha1sum

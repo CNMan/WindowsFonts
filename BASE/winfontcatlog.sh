@@ -1,3 +1,11 @@
+rm -rf hans
+rm -rf hant
+rm -rf jpan
+rm -rf kore
+rm -rf thai
+rm -rf latn
+rm -rf other
+
 mkdir hans
 mkdir hant
 mkdir jpan
@@ -19,10 +27,11 @@ mv batang.ttc gulim.ttc kore/
 mv malgun.ttf malgunbd.ttf malgunsl.ttf kore/
 
 mv meiryob.ttc meiryo.ttc jpan/
-mv msgothaiic.ttc msmincho.ttc jpan/
+mv msgothic.ttc msmincho.ttc jpan/
 mv UDDigiKyokashoN-B.ttc UDDigiKyokashoN-R.ttc jpan/
 mv YuGothB.ttc YuGothL.ttc YuGothM.ttc YuGothR.ttc jpan/
 mv yumindb.ttf yuminl.ttf yumin.ttf jpan/
+mv BIZ-UDGothicB.ttc BIZ-UDGothicR.ttc BIZ-UDMinchoM.ttc jpan/
 
 mv arialbd.ttf arialbi.ttf ariali.ttf arial.ttf ariblk.ttf latn/
 mv calibrib.ttf calibrii.ttf calibrili.ttf calibril.ttf calibri.ttf calibriz.ttf latn/
@@ -44,68 +53,13 @@ mv timesbd.ttf timesbi.ttf timesi.ttf times.ttf latn/
 mv trebucbd.ttf trebucbi.ttf trebucit.ttf trebuc.ttf latn/
 mv verdanab.ttf verdanai.ttf verdana.ttf verdanaz.ttf latn/
 mv bahnschrift.ttf Gabriola.ttf impahant.ttf lucon.ttf micross.ttf l_10646.ttf latn/
+mv impact.ttf latn/
 
 mv upcdb.ttf upcdbi.ttf upcdi.ttf upcdl.ttf upceb.ttf upcebi.ttf upcei.ttf upcel.ttf upcfb.ttf upcfbi.ttf upcfi.ttf upcfl.ttf upcib.ttf upcibi.ttf upcii.ttf upcil.ttf upcjb.ttf upcjbi.ttf upcji.ttf upcjl.ttf upckb.ttf upckbi.ttf upcki.ttf upckl.ttf upclb.ttf upclbi.ttf upcli.ttf upcll.ttf thai/
 mv angsana.ttc browalia.ttc cordia.ttc leelawad.ttf leelawdb.ttf LeelaUIb.ttf LeelawUI.ttf LeelUIsl.ttf thai/
 
 mv *.ttf other/
 mv *.ttc other/
-
-# delete fonts existed in FOD packages
-rm hans/Deng.ttf
-rm hans/Dengb.ttf
-rm hans/Dengl.ttf
-rm hans/simfang.ttf
-rm hans/simhei.ttf
-rm hans/simkai.ttf
-rm hant/kaiu.ttf
-rm hant/mingliu.ttc
-rm jpan/meiryo.ttc
-rm jpan/meiryob.ttc
-rm jpan/msgothaiic.ttc
-rm jpan/msmincho.ttc
-rm jpan/UDDigiKyokashoN-B.ttc
-rm jpan/UDDigiKyokashoN-R.ttc
-rm jpan/yumin.ttf
-rm jpan/yumindb.ttf
-rm jpan/yuminl.ttf
-rm kore/batang.ttc
-rm kore/gulim.ttc
-rm other/LaoUI.ttf
-rm other/LaoUIb.ttf
-rm thai/angsana.ttc
-rm thai/browalia.ttc
-rm thai/cordia.ttc
-rm thai/leelawad.ttf
-rm thai/leelawdb.ttf
-rm thai/upcdb.ttf
-rm thai/upcdbi.ttf
-rm thai/upcdi.ttf
-rm thai/upcdl.ttf
-rm thai/upceb.ttf
-rm thai/upcebi.ttf
-rm thai/upcei.ttf
-rm thai/upcel.ttf
-rm thai/upcfb.ttf
-rm thai/upcfbi.ttf
-rm thai/upcfi.ttf
-rm thai/upcfl.ttf
-rm thai/upcib.ttf
-rm thai/upcibi.ttf
-rm thai/upcii.ttf
-rm thai/upcil.ttf
-rm thai/upcjb.ttf
-rm thai/upcjbi.ttf
-rm thai/upcji.ttf
-rm thai/upcjl.ttf
-rm thai/upckb.ttf
-rm thai/upckbi.ttf
-rm thai/upcki.ttf
-rm thai/upckl.ttf
-rm thai/upclb.ttf
-rm thai/upclbi.ttf
-rm thai/upcli.ttf
-rm thai/upcll.ttf
 
 sha1sum latn/*.tt* >latn/sha1sum
 sha1sum hans/*.tt* >hans/sha1sum
