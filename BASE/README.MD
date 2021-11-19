@@ -9,6 +9,8 @@
 
 You can download Windows 10 Disc Image (ISO File) from https://www.microsoft.com/en-us/software-download/windows10ISO
 
+You can download Windows 11 Disc Image (ISO File) from https://www.microsoft.com/en-us/software-download/windows11
+
 Available Languages:
 
 |EN-US|ZH-TW|
