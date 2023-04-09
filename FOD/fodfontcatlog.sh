@@ -72,6 +72,7 @@ mv estre.ttf syrc/
 mv latha.ttf lathab.ttf vijaya.ttf vijayab.ttf taml/
 mv gautami.ttf gautamib.ttf Vani.ttf Vanib.ttf telu/
 mv angsana.ttc browalia.ttc cordia.ttc leelawad.ttf leelawdb.ttf upcdb.ttf upcdbi.ttf upcdi.ttf upcdl.ttf upceb.ttf upcebi.ttf upcei.ttf upcel.ttf upcfb.ttf upcfbi.ttf upcfi.ttf upcfl.ttf upcib.ttf upcibi.ttf upcii.ttf upcil.ttf upcjb.ttf upcjbi.ttf upcji.ttf upcjl.ttf upckb.ttf upckbi.ttf upcki.ttf upckl.ttf upclb.ttf upclbi.ttf upcli.ttf upcll.ttf thai/
+mv NHaasGroteskTXPro-It.ttf NHaasGroteskTXPro-Rg.ttf latn/
 
 # delete fonts existed in BASE
 rm hans/Deng.ttf
