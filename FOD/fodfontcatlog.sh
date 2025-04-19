@@ -56,13 +56,13 @@ mv aparaj.ttf aparajb.ttf aparajbi.ttf aparaji.ttf kokila.ttf kokilab.ttf kokila
 mv nyala.ttf ethi/
 mv shruti.ttf shrutib.ttf gujr/
 mv raavi.ttf raavib.ttf guru/
-mv Deng.ttf Dengb.ttf Dengl.ttf simfang.ttf simhei.ttf simkai.ttf hans/
-mv mingliu.ttc kaiu.ttf hant/
+mv Deng.ttf Dengb.ttf Dengl.ttf NotoSansSC-VF.ttf NotoSerifSC-VF.ttf simfang.ttf simhei.ttf simkai.ttf hans/
+mv NotoSansHK-VF.ttf NotoSansTC-VF.ttf NotoSerifHK-VF.ttf NotoSerifTC-VF.ttf mingliu.ttc kaiu.ttf hant/
 mv ahronbd.ttf david.ttf davidbd.ttf frank.ttf gisha.ttf gishabd.ttf lvnm.ttf lvnmbd.ttf mriam.ttf mriamc.ttf nrkis.ttf rod.ttf hebr/
-mv meiryo.ttc meiryob.ttc msgothic.ttc msmincho.ttc UDDigiKyokashoN-B.ttc UDDigiKyokashoN-R.ttc yumin.ttf yumindb.ttf yuminl.ttf jpan/
+mv BIZ-UDGothicB.ttc BIZ-UDGothicR.ttc BIZ-UDMinchoM.ttc meiryo.ttc meiryob.ttc msgothic.ttc msmincho.ttc NotoSansJP-VF.ttf NotoSerifJP-VF.ttf UDDigiKyokashoN-B.ttc UDDigiKyokashoN-R.ttc yumin.ttf yumindb.ttf yuminl.ttf jpan/
 mv daunpenh.ttf KhmerUI.ttf KhmerUIb.ttf moolbor.ttf khmr/
 mv tunga.ttf tungab.ttf knda/
-mv batang.ttc gulim.ttc kore/
+mv batang.ttc gulim.ttc NotoSansKR-VF.ttf NotoSerifKR-VF.ttf kore/
 mv dokchamp.ttf LaoUI.ttf LaoUIb.ttf laoo/
 mv kartika.ttf kartikab.ttf mlym/
 mv kalinga.ttf kalingab.ttf orya/
@@ -81,6 +81,8 @@ rm hans/Dengl.ttf
 rm hans/msyh.ttc
 rm hans/msyhbd.ttc
 rm hans/msyhl.ttc
+rm hans/NotoSansSC-VF.ttf
+rm hans/NotoSerifSC-VF.ttf
 rm hans/simfang.ttf
 rm hans/simhei.ttf
 rm hans/simkai.ttf
@@ -92,6 +94,10 @@ rm hant/mingliub.ttc
 rm hant/msjh.ttc
 rm hant/msjhbd.ttc
 rm hant/msjhl.ttc
+rm hant/NotoSansHK-VF.ttf
+rm hant/NotoSansTC-VF.ttf
+rm hant/NotoSerifHK-VF.ttf
+rm hant/NotoSerifTC-VF.ttf
 rm jpan/BIZ-UDGothicB.ttc
 rm jpan/BIZ-UDGothicR.ttc
 rm jpan/BIZ-UDMinchoM.ttc
@@ -99,6 +105,8 @@ rm jpan/meiryo.ttc
 rm jpan/meiryob.ttc
 rm jpan/msgothic.ttc
 rm jpan/msmincho.ttc
+rm jpan/NotoSansJP-VF.ttf
+rm jpan/NotoSerifJP-VF.ttf
 rm jpan/UDDigiKyokashoN-B.ttc
 rm jpan/UDDigiKyokashoN-R.ttc
 rm jpan/YuGothB.ttc
@@ -108,9 +116,13 @@ rm jpan/YuGothR.ttc
 rm jpan/yumin.ttf
 rm jpan/yumindb.ttf
 rm jpan/yuminl.ttf
+rm kore/batang.ttc
+rm kore/gulim.ttc
 rm kore/malgun.ttf
 rm kore/malgunbd.ttf
 rm kore/malgunsl.ttf
+rm kore/NotoSansKR-VF.ttf
+rm kore/NotoSerifKR-VF.ttf
 rm latn/arial.ttf
 rm latn/arialbd.ttf
 rm latn/arialbi.ttf

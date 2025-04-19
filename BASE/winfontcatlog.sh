@@ -17,14 +17,17 @@ mkdir other
 mv Dengb.ttf Dengl.ttf Deng.ttf hans/
 mv msyhbd.ttc msyhl.ttc msyh.ttc hans/
 mv simfang.ttf simhei.ttf simkai.ttf hans/
-mv simsunb.ttf simsun.ttc hans/
+mv simsunb.ttf SimsunExtG.ttf simsun.ttc hans/
+mv NotoSansSC-VF.ttf NotoSerifSC-VF.ttf hans/
 
 mv kaiu.ttf hant/
 mv mingliub.ttc mingliu.ttc hant/
 mv msjhbd.ttc msjhl.ttc msjh.ttc hant/
+mv NotoSansHK-VF.ttf NotoSansTC-VF.ttf NotoSerifHK-VF.ttf NotoSerifTC-VF.ttf hant/
 
 mv batang.ttc gulim.ttc kore/
 mv malgun.ttf malgunbd.ttf malgunsl.ttf kore/
+mv NotoSansKR-VF.ttf NotoSerifKR-VF.ttf kore/
 
 mv meiryob.ttc meiryo.ttc jpan/
 mv msgothic.ttc msmincho.ttc jpan/
@@ -32,6 +35,7 @@ mv UDDigiKyokashoN-B.ttc UDDigiKyokashoN-R.ttc jpan/
 mv YuGothB.ttc YuGothL.ttc YuGothM.ttc YuGothR.ttc jpan/
 mv yumindb.ttf yuminl.ttf yumin.ttf jpan/
 mv BIZ-UDGothicB.ttc BIZ-UDGothicR.ttc BIZ-UDMinchoM.ttc jpan/
+mv NotoSansJP-VF.ttf NotoSerifJP-VF.ttf jpan/
 
 mv arialbd.ttf arialbi.ttf ariali.ttf arial.ttf ariblk.ttf latn/
 mv calibrib.ttf calibrii.ttf calibrili.ttf calibril.ttf calibri.ttf calibriz.ttf latn/
